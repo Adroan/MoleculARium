@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="dimetilbenzeno" size="0.200000 0.197352" />
+    <ImageTarget name="2buteno" size="0.200000 0.197352" />
+    <ImageTarget name="butano" size="0.200000 0.197352" />
+    <ImageTarget name="heptanoconstrucao" size="0.200000 0.197352" />
+    <ImageTarget name="hexano" size="0.200000 0.197352" />
+    <ImageTarget name="hexanoconstrucao" size="0.200000 0.197352" />
+    <ImageTarget name="isoctano" size="0.200000 0.197352" />
+    <ImageTarget name="PentanoConstrucao" size="0.200000 0.197352" />
+    <ImageTarget name="2metilPentano" size="0.200000 0.197352" />
+  </Tracking>
+</QCARConfig>

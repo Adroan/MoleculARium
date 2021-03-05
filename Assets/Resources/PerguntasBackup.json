@@ -1,0 +1,163 @@
+{
+    "perguntas": [
+        {
+            "idPergunta": 0,
+            "titulo": "Isomeria Espacial",
+            "pergunta": "Ao observar esse par de moléculas ao lado, é possível observar que são isômeros, pois possuem a mesma quantidade de átomos. Porém qual tipo de isomeria é possível ser visualizada",
+            "respostas": [
+                "a) Metameria",
+                "b) Isomeria de cadeia",
+                "c) Isomeria Cis-Trans",
+                "d) Isomeria E e Z"
+            ],
+            "respostaCerta": [
+                "c) Isomeria Cis-Trans"
+            ],
+            "respondida": false
+        },
+        {
+            "idPergunta": 1,
+            "titulo": "Isomeria plana",
+            "pergunta": "Ao observar esse par de moléculas ao lado, é possível observar que são isômeros, pois possuem a mesma quantidade de átomos. Porém qual tipo de isomeria é possível ser visualizada",
+            "respostas": [
+                "a) Isomeria de posição",
+                "b) Isomeria de cadeia",
+                "c) Tautomeria",
+                "d) Isomeria E e Z"
+            ],
+            "respostaCerta": [
+                "a) Isomeria de posição"
+            ],
+            "respondida": false
+        },
+        {
+            "idPergunta": 2,
+            "titulo": "Isômeros de constituição",
+            "pergunta": "Dado um hexano - C6H14 - quantos isomeros de constituição (levando ele em consideração) são possíveis?",
+            "respostas": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "respostaCerta": [
+                "5"
+            ],
+            "respondida": false
+        },
+        {
+            "idPergunta": 3,
+            "titulo": "Isômeros de constituição",
+            "pergunta": "Dado um n-butano(CH3-CH2-CH2-CH3), que apresenta cadeia aberta normal, quando um de seu carbonos se ramifica e torna-se uma estrutura metil, de qual composto e qual isomeria pode ser visto nesse caso",
+            "respostas": [
+                "a) isômero de função, metil-butano",
+                "b) isômero de função, isopentano",
+                "c) isômeros de cadeia,  isobutano",
+                "d) isômero de cadeia, metil-butano"
+            ],
+            "respostaCerta": [
+                "c) isômeros de cadeia,  isobutano"
+            ],
+            "respondida": false
+        },
+        {
+            "idPergunta": 4,
+            "titulo": "Isômeros de constituição",
+            "pergunta": "Que tipo de isomeria acontece entre o 3 - metil pentano e a molécula ao lado",
+            "respostas": [
+                "a) isomeria de posição",
+                "b) isomeria geométrica",
+                "c) isomeria de função",
+                "d) isomeria de ramificação"
+            ],
+            "respostaCerta": [
+                "a) isomeria de posição"
+            ],
+            "respondida": false
+        },
+        {
+            "idPergunta": 5,
+            "titulo": "Isômeros de constituição",
+            "pergunta": "Dentre os componentes da gasolina existem vários hidrocarbonetos que possuem de 6 a 10 átomos de carbono. Porém para efetuar a mensura da qualidade da gasolina é utilizado um índice chamado índice de octanagem ou índice de octanas, este índice representa a resistência de um determinado tipo de gasolina a compressão. O componente com maior resistência é o 2,2,4-trimetilpentano, chamado também de isoctano, atribuído com o valor de 100 octanas e o menos resistente o heptano atribuído com o valor zero. Por exemplo uma gasolina com 70 octanas, ou índice de octanagem igual a 70, quer dizer que  em relação à compressão, essa gasolina se comporta como se fosse uma mistura de 70% de isoctano e 30% de heptano. Visto a aplicação prática listada acima pode se dizer que o isoctano é um isômero de que hidrocarboneto de cadeia aberta normal? ",
+            "respostas": [
+                "a) heptano",
+                "b) octano",
+                "c)hexano",
+                "d)decano"
+            ],
+            "respostaCerta": [
+                "b) octano"
+            ],
+            "respondida": false
+        },
+        {
+            "idPergunta": 6,
+            "titulo": "Isômeros de constituição",
+            "pergunta": "A partir de agora as coisas vão ficar um pouco mais complicadas. Para ajudar você a entender um pouco mais sobre isômeros, vou utilizar um pouco do que você aprendeu anteriormente para testa-lo e ver se entendeu o conteúdo. Dessa forma, agora quero que você, utilizando do editor de moléculas ao lado, construa o isômero plano de cadeia ramificada da molécula de pentano chamado neopentano ou 2,2 dimetil-propano",
+            "respostas": [],
+            "respostaCerta": [
+                "CCHHHCHHHCHHHCHHH",
+                "CCCHHHCHHHCHHHHHH",
+                "CHHCCHHHCHHHCHHHH",
+                "CHHHCCHHHCHHHCHHH",
+                "CHCCHHHCHHHCHHHHH"
+            ],
+            "respondida": false
+        },
+        {
+            "idPergunta": 7,
+            "titulo": "Isômeros de constituição",
+            "pergunta": "Igualmente, utilizando do editor de moléculas ao lado, construa o isomero plano aberto da molécula de hexano, que possui pares de metil em suas pontas chamada 2,3 dimetil butano",
+            "respostas": [],
+            "respostaCerta": [
+                "CCHCHHHCHHHCHHHCHHHH",
+                "CCHHHCHHHCCHHHCHHHHH",
+                "CHCCHHHHCCHHHHCHHHHH",
+                "CHHCCHHHCCHHHCHHHHHH"
+            ],
+            "respondida": false
+        },
+        {
+            "idPergunta": 8,
+            "titulo": "Isômeros de constituição",
+            "pergunta": "Na indústria petroquímica, por exemplo, as reações de isomerização, que transformam alcanos normais em ramificados, são empregados para melhorar a qualidade da gasolina. O Heptano, que tem o ponto de referência 0 na escala de octanagem,  ao passar pela isomerização assume diversos isômeros de cadeia sendo um deles o isoheptano ou 2 - metil - hexano, com base nessas informações construa a molécula  isoheptano.",
+            "respostas": [],
+            "respostaCerta": [
+                "CHHCCHHHCHHCCHHCHHHHHHH",
+                "CCHCHHHCCHHCCHHHHHHHHHH",
+                "CCCHHHHCCHHCCHHHHHHHHHH",
+                "CCHCHHHCCHHCHCHHHHHHHHH",
+                "CHHCCHHHCHHCCHCHHHHHHHH",
+                "CHHCHCHHCHCCHHHHHHCHHHH",
+                "CHHCCHHHCHHCHCCHHHHHHHH",
+                "CHHCHCHHCCHCHHHHHHCHHHH",
+                "CHHCCHHHCHHCCHCHHHHHHHH",
+                "CHHHCCCHHCCHHHHHHHHCHHH",
+                "CHHHCCCHHCCHHHHHHHCHHHH",
+                "CCHCHHCHHCCHHHHHCHHHHHH",
+                "CCCHHHCHHCHHCCHHHHHHHHH",
+                "CHHCCHCHHCHHCHHHHHCHHHH",
+                "CHHCCHCHHCHHCHHHHCHHHHH",
+                "CHHHCCHHHHCCHHCCHHHHHHH",
+                "CHHHCHCHHHCCHHCCHHHHHHH",
+                "CHCCHHCHCHHCHHHHHCHHHHH",
+                "CHCCHHCHCHHCHHHHCHHHHHH",
+                "CCHCHHHCHCHHCHCHHHHHHHH",
+                "CCCHHHHCHCHHCHCHHHHHHHH",
+                "CHHCCHHHCCHHCCHHHHHHHHH",
+                "CHHCHCCHHCCHHHHHHHCHHHH",
+                "CHHCCCHHCHHCHHHHHHCHHHH",
+                "CHHCCCHHCHHCHHHHHCHHHHH",
+                "CHHCCHHHCHHCCCHHHHHHHHH",
+                "CHHCCHHHCHHCCCHHHHHHHHH",
+                "CHHCHCHHCCCHHHHHHHCHHHH",
+                "CHHCHCHHCCHHCHHHHHCHHHH",
+                "CHHCHCCHHCHCHHHHHHCHHHH",
+                "CHHCCHHHCCHHCHCHHHHHHHH",
+                "CHHCCHHHCCHHCHHCHHHHHHH",
+                "CHHCHCCHHCHHCHHHHHCHHHH"
+            ],
+            "respondida": false
+        }
+    ]
+}
